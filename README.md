@@ -193,14 +193,7 @@ python train.py
 
 ---
 
-## 👥 Tim Peneliti
 
-| Peran | Fokus |
-|-------|-------|
-| Dosen Peneliti (Prodi A) | Karakterisasi Material & Pengambilan Data |
-| Dosen Peneliti (Prodi B) | Komputasi, Sistem & Penyimpanan Data |
-
----
 
 ## 📚 Referensi Teknis
 
