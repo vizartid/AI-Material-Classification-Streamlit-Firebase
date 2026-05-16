@@ -1,0 +1,25 @@
+# =============================================================================
+# requirements.txt - Daftar Library yang Dibutuhkan
+# Proyek: Klasifikasi Material | PKM Internal
+# =============================================================================
+# Cara Install: pip install -r requirements.txt
+
+# --- Web Framework ---
+streamlit==1.35.0           # Framework web interface interaktif
+
+# --- Deep Learning & Image Processing ---
+tensorflow==2.15.0          # Framework DL utama (sudah include Keras)
+# tensorflow-cpu==2.15.0    # Ganti baris di atas dengan ini jika tidak ada GPU
+
+# --- Pemrosesan Gambar & Numerik ---
+Pillow==10.3.0              # Library pemrosesan gambar (PIL)
+numpy==1.26.4               # Komputasi array/matriks numerik
+
+# --- Firebase ---
+firebase-admin==6.5.0       # SDK resmi Firebase untuk Python
+
+# --- Data & Visualisasi ---
+pandas==2.2.2               # Manipulasi data tabular (untuk tabel riwayat)
+
+# --- Utilitas Lain ---
+python-dotenv==1.0.1        # Load konfigurasi dari file .env (opsional)
